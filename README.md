@@ -1,1 +1,1 @@
-<h1 color>My journey on web development</h1>
+<h1 color: #66bfbf;>My journey on web development</h1>
