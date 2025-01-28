@@ -1,1 +1,6 @@
-<h1 style=color: #66bfbf;>My journey on web development</h1>
+<style>
+  h1 {
+    color: #66bfbf;
+  }
+</style>
+<h1>My journey on web development</h1>
