@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/styles.css">
     <style>
         h1 {
-            
+            color: #66bfbf;
         }
     </style>
 </head>
