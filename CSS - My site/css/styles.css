@@ -1,0 +1,158 @@
+body {
+  color: #40514e;
+  margin: 0px;
+  text-align: center;
+  font-family: "merriweather", serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "sacramento", cursive;
+  line-height: 1;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+
+p{
+  line-height: 2;
+}
+
+hr {
+  background-color: white;
+  border-style: dotted none;
+  border-width: 5px 0 0;
+  border-color: gray;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.profile-1 {
+  width: 25%;
+  height: 25%;
+}
+
+.console {
+  width: 25%;
+  height: 25%;
+  float: left;
+}
+
+.restaurant {
+  width: 25%;
+  height: 25%;
+  float: right;
+}
+
+.top {
+  background-color: #eaf6f6;
+  position: relative;
+  padding: 100px 0 0 0;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.grammer {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.left {
+  text-align: right;
+}
+
+.end {
+  color: #eaf6f6;
+  margin-bottom: 0;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.footer-link {
+  color: #11999e;
+}
+
+.btn {
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 8px;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px 20px 10px 20px;
+  background-color: #11999e;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #11999e 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #11999e;
+  border: solid #11999e 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.eat{
+  width: 40%;
+  margin: 40px auto 60px;
+}
