@@ -1,16 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
-    <h1>My web development boot camp</h1>
-    <ul>
-        <li>Phone number: 123456789</li>
-        <li>Email: owoayo9@gmail.com</li>
-    </ul>
-</body>
-</html>
+<h1>💼 KunPant's Personal Website & CV</h1>
+
+Welcome to my personal website repository! This project showcases my professional profile, including my curriculum vitae (CV), hobbies, and contact information. It's built using HTML and CSS, reflecting my skills in web development.
+
+### 🎯 Features
+- **Responsive Design** (basic)
+
+- **Clean Layout**: Simple and professional
+
+- **Modular Files**: Easy to update and expand
+
+### 🛠️ Built With
+- HTML5
+
+- CSS3
+
+### 📬 Contact
+- **Phone**: 09022184129
+
+- **Email**: owoayo9@gmail.com
+
+### 📜 License
+This project is licensed under the MIT License.
+
+This site is a personal project and may be updated
